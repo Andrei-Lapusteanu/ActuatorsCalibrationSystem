@@ -1,0 +1,41 @@
+﻿<UserControl x:Class="View.UserControls.ActuatorMoveContinuouslyAxisX"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:View.UserControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="65" d:DesignWidth="180">
+    <Grid VerticalAlignment="Center" HorizontalAlignment="Center">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="60"/>
+            <ColumnDefinition Width="60"/>
+            <ColumnDefinition Width="60"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0" Grid.Column="0">
+            <Button x:Name="buttonRetractAxisX" Style="{StaticResource ButtonHoverStyleCustom}" Content="" Grid.Column="1" Grid.Row="1" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Click="ButtonRetractAxisX_Click">
+                <Button.Background>
+                    <ImageBrush Stretch="Uniform" ImageSource="/View;component/img/left.png"/>
+                </Button.Background>
+            </Button>
+        </Grid>
+        <Grid Grid.Row="0" Grid.Column="1">
+            <Button x:Name="buttonStopAxisX" Style="{StaticResource ButtonHoverStyleCustom}" Content="" Grid.Column="1" Grid.Row="1" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Click="ButtonStopAxisX_Click">
+                <Button.Background>
+                    <ImageBrush ImageSource="/View;component/img/stop_2.png" Stretch="Uniform"/>
+                </Button.Background>
+            </Button>
+        </Grid>
+        <Grid Grid.Row="0" Grid.Column="2">
+            <Button x:Name="buttonExpandAxisX" Style="{StaticResource ButtonHoverStyleCustom}" Content="" Grid.Column="1" Grid.Row="1" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Click="ButtonExpandAxisX_Click">
+                <Button.Background>
+                    <ImageBrush Stretch="Uniform" ImageSource="/View;component/img/right.png"/>
+                </Button.Background>
+            </Button>
+        </Grid>
+    </Grid>
+</UserControl>

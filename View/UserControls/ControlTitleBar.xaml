@@ -1,0 +1,27 @@
+﻿<UserControl x:Class="View.UserControls.ControlTitleBar"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:View.UserControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="40"
+             d:DesignWidth="400">
+    <Grid>
+    <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <LinearGradientBrush.RelativeTransform>
+                    <TransformGroup>
+                        <ScaleTransform CenterY="0.5" CenterX="0.5"/>
+                        <SkewTransform CenterY="0.5" CenterX="0.5" AngleX="45"/>
+                        <RotateTransform Angle="130" CenterY="0.5" CenterX="0.5"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </LinearGradientBrush.RelativeTransform>
+                <GradientStop x:Name="titleGradientOne" Color="#902D3DD6" Offset="1"/>
+            <GradientStop x:Name="titleGradientTwo" Color="#909116A4" Offset="0"/>
+        </LinearGradientBrush>
+    </Grid.Background>
+    <TextBlock x:Name="textBlockControlName" TextWrapping="Wrap" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="10,0,0,0" FontSize="24" Text="Default title text" Foreground="White" FontWeight="ExtraLight" FontStyle="Normal"/>
+    </Grid>
+</UserControl>
