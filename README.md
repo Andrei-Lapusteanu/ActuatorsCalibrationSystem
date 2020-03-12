@@ -8,7 +8,7 @@
 - This application is part of the **ELI-NP (Extreme Light Infrastructure-Nuclear Physics)** project - [http://www.eli-np.ro/ro/](http://www.eli-np.ro/ro/)
 - The software, using the video feed captured from a highly specialized capturing device, has to determine in physical space the point of incidence of a high energy beam fired inside an interaction chamber. The beam is required to interact with a specialized probe whose position can be controlled using a 3-axis stepper motor system. Thus, using the image captured from the camera, the software aims to reposition the probe inside the interaction chamber with the help of the mechanical actuator (stepper motor) system
 
- ![enter image description here](https://drive.google.com/drive/folders/1XOUQK2yvoS6jrI_P6Z8T96wGEU2mHc3-)
+ ![enter image description here](https://drive.google.com/file/d/10lCAJ9yy5cfEmizG1cSNK5Rxv2F5oU5U/view?usp=sharing)
 
 ## Technologies
 
@@ -23,6 +23,6 @@
 ### Important
 Currently, because the software requires the capturing device and actuators connected as peripherals, demonstration of its functionality cannot be fully achieved. There exists a possibility of virtualizing these peripherals, which I will tackle in the near fututre, in order to properly build the solution
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDE3MTMyMDgsLTU4NTYzMjAyMSwxNj
+eyJoaXN0b3J5IjpbLTE1NDM4MjgyNDgsLTU4NTYzMjAyMSwxNj
 c5MTg5NTEzXX0=
 -->
