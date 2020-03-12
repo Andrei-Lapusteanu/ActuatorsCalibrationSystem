@@ -6,7 +6,11 @@
 
 -image-
 
+## Technologies
+
+- Mostly written using **C#**, using the **.NET framework**
+- Its backbone is a modified **MVC (Model-View-Controller)** design
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyOTIzODE0N119
+eyJoaXN0b3J5IjpbLTIxMDczNjY3MDJdfQ==
 -->
