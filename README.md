@@ -6,6 +6,7 @@
  
 ### Scope
 - This application is part of the **ELI-NP (Extreme Light Infrastructure-Nuclear Physics)** project - [http://www.eli-np.ro/ro/](http://www.eli-np.ro/ro/)
+- The software, using the video feed captured from a highly specialized capturing device, has to determine 
 
 
 ## Technologies
@@ -17,5 +18,5 @@
 - Basic logging was implemented using **log4net**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc2MTc4MzgxXX0=
+eyJoaXN0b3J5IjpbLTE3MTM2NDY5MjhdfQ==
 -->
