@@ -5,7 +5,7 @@
  Windows application which using image processing algorithms can determine the movement behaviour of a set of mechanical actuators. This application represents my bachelor's project
  
 ### Scope
-This application is part of the **16ELI** pro
+This application is part of the **ELI-NP (Extreme Light Infrastructure-Nuclear Physics)** project (
 
 ## Technologies
 
@@ -16,5 +16,5 @@ This application is part of the **16ELI** pro
 - Basic logging was implemented using **log4net**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUwMDkzMjE0XX0=
+eyJoaXN0b3J5IjpbLTg1MDQxNDI4NF19
 -->
