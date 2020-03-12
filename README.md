@@ -9,9 +9,11 @@
 ## Technologies
 
 - Mostly written using **C#**, using the **.NET framework**
+- UI was designed in **WPF/XAML**
 - Its backbone is a modified **MVC (Model-View-Controller)** design pattern, to which an **Entites** project was added
 - **OpenCVSharp** was used in order to implement the image processing requirements
+- Basic logging was implemented using **log4net**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY1MTA2ODIzXX0=
+eyJoaXN0b3J5IjpbNDE1MjU2NTAzXX0=
 -->
