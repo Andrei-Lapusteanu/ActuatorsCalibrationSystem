@@ -9,8 +9,9 @@
 ## Technologies
 
 - Mostly written using **C#**, using the **.NET framework**
-- Its backbone is a modified **MVC (Model-View-Controller)** design
+- Its backbone is a modified **MVC (Model-View-Controller)** design pattern, to which an **Entites** project was added
+- **OpenCVSharp** was used in order to implement the image processing requirements
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDczNjY3MDJdfQ==
+eyJoaXN0b3J5IjpbNTY1MTA2ODIzXX0=
 -->
