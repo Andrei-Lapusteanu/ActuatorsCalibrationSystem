@@ -19,11 +19,13 @@
 - Basic logging was implemented using **log4net**
 
 ## Functionality  - software integration
--image-
+
+<a href="https://imgur.com/BRhlOxz"><img src="https://i.imgur.com/BRhlOxz.png" title="source: imgur.com" /></a>
+
 ### Important
 Currently, because the software requires the capturing device and actuators connected as peripherals, demonstration of its functionality cannot be fully achieved. There exists a possibility of virtualizing these peripherals, which I will tackle in the near fututre, in order to properly build the solution
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNjUxMjE5MCwxMTM4NzM4MDEwLC03Mz
+eyJoaXN0b3J5IjpbLTYyNjE5NzkxNiwxMTM4NzM4MDEwLC03Mz
 M0MDI2OTIsLTIxMzgwNzIzNDEsMzc3MjU0MTUxLC01ODU2MzIw
 MjEsMTY3OTE4OTUxM119
 -->
