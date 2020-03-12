@@ -19,8 +19,8 @@
 
 ## Funtionality
 -image-
-- *
-
+### Important
+Currently, because the software requires the capturing device and actuators connected as peripherals, demonstration of its functionality cannot be fully achieved. There exists a possibility of virtualiz
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQwODk5MzM2XX0=
+eyJoaXN0b3J5IjpbMjY5OTgwMjM4XX0=
 -->
