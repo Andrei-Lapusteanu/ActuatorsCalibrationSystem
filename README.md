@@ -17,10 +17,10 @@
 - **OpenCVSharp** was used in order to implement the image processing requirements
 - Basic logging was implemented using **log4net**
 
-## Funtionality
+## Functionality  - software integration
 -image-
 ### Important
 Currently, because the software requires the capturing device and actuators connected as peripherals, demonstration of its functionality cannot be fully achieved. There exists a possibility of virtualizing these peripherals, which I will tackle in the near fututre, in order to properly build the solution
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njg2MzQ5MjhdfQ==
+eyJoaXN0b3J5IjpbMTY3OTE4OTUxM119
 -->
