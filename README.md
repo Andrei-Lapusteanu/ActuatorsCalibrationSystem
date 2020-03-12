@@ -2,9 +2,10 @@
 
 ## Summary
 
- Windows application which using image processing algorithms can determine the movement behaviour of a set of mechanical actuators. This application represents my bachelor's project.
-
--image-
+ Windows application which using image processing algorithms can determine the movement behaviour of a set of mechanical actuators. This application represents my bachelor's project
+ 
+### Scope
+This application is part of the **16ELI** pro
 
 ## Technologies
 
@@ -15,5 +16,5 @@
 - Basic logging was implemented using **log4net**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE1MjU2NTAzXX0=
+eyJoaXN0b3J5IjpbNzUwMDkzMjE0XX0=
 -->
