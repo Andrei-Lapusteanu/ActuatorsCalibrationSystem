@@ -13,7 +13,7 @@
 ## Technologies
 
 - Mostly written using **C#**, using the **.NET framework**
-- UI was designed in **WPF/XAML**
+- UI was designed in **WPF/XAML**, using **FluentWPF** in order to emlate the **UWP** look and feel
 - Its backbone is a modified **MVC (Model-View-Controller)** design pattern, to which an **Entites** project was added
 - **OpenCVSharp** was used in order to implement the image processing requirements
 - Basic logging was implemented using **log4net**
@@ -27,7 +27,7 @@
 ### Important
 Currently, because the software requires the capturing device and actuators to be connected as peripherals, demonstration of its functionality cannot be fully achieved. There exists a possibility of virtualizing these peripherals, which I will tackle in the near future, in order to properly build the solution
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTIzMzA2NDMsLTYyNjE5NzkxNiwxMT
+eyJoaXN0b3J5IjpbLTE4NDA5MDU4MjMsLTYyNjE5NzkxNiwxMT
 M4NzM4MDEwLC03MzM0MDI2OTIsLTIxMzgwNzIzNDEsMzc3MjU0
 MTUxLC01ODU2MzIwMjEsMTY3OTE4OTUxM119
 -->
