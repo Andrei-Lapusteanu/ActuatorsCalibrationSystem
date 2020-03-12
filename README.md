@@ -20,12 +20,13 @@
 
 ## Functionality  - software integration
 
-<a href="https://imgur.com/BRhlOxz"><img src="https://i.imgur.com/BRhlOxz.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/BRhlOxz" alt="as><img src="https://i.imgur.com/BRhlOxz.png" title="source: imgur.com"/></a>
+
 
 ### Important
 Currently, because the software requires the capturing device and actuators to be connected as peripherals, demonstration of its functionality cannot be fully achieved. There exists a possibility of virtualizing these peripherals, which I will tackle in the near future, in order to properly build the solution
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODcwMjc0NDAsLTYyNjE5NzkxNiwxMT
-M4NzM4MDEwLC03MzM0MDI2OTIsLTIxMzgwNzIzNDEsMzc3MjU0
-MTUxLC01ODU2MzIwMjEsMTY3OTE4OTUxM119
+eyJoaXN0b3J5IjpbLTMwNjg3MDE2LC02MjYxOTc5MTYsMTEzOD
+czODAxMCwtNzMzNDAyNjkyLC0yMTM4MDcyMzQxLDM3NzI1NDE1
+MSwtNTg1NjMyMDIxLDE2NzkxODk1MTNdfQ==
 -->
