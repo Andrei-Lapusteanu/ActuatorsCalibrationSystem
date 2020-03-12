@@ -10,11 +10,13 @@
 
 <a href="https://imgur.com/VNuFmMj"><img src="https://i.imgur.com/VNuFmMj.png" title="source: imgur.com" /></a>
 *Application UI*
+
+
  
 ## Technologies
 
 - Mostly written using **C#**, using the **.NET framework**
-- UI was designed in **WPF/XAML**, using **FluentWPF** in order to emlate the **UWP** look and feel
+- UI was designed in **WPF/XAML**, using **FluentWPF** in order to emulate the **UWP** look and feel
 - Its backbone is a modified **MVC (Model-View-Controller)** design pattern, to which an **Entites** project was added
 - **OpenCVSharp** was used in order to implement the image processing requirements
 - Basic logging was implemented using **log4net**
@@ -28,7 +30,8 @@
 ### Important
 Currently, because the software requires the capturing device and actuators to be connected as peripherals, demonstration of its functionality cannot be fully achieved. There exists a possibility of virtualizing these peripherals, which I will tackle in the near future, in order to properly build the solution
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NjkxMDQxNywtNjI2MTk3OTE2LDExMz
-g3MzgwMTAsLTczMzQwMjY5MiwtMjEzODA3MjM0MSwzNzcyNTQx
-NTEsLTU4NTYzMjAyMSwxNjc5MTg5NTEzXX0=
+eyJoaXN0b3J5IjpbLTE0Mzc1ODk4ODQsLTc5NjkxMDQxNywtNj
+I2MTk3OTE2LDExMzg3MzgwMTAsLTczMzQwMjY5MiwtMjEzODA3
+MjM0MSwzNzcyNTQxNTEsLTU4NTYzMjAyMSwxNjc5MTg5NTEzXX
+0=
 -->
